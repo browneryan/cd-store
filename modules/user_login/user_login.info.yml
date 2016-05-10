@@ -1,0 +1,5 @@
+name: User login
+type: module
+description: Say hello to new user upon login
+package: Custom
+core: 8.x

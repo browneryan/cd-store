@@ -1,0 +1,7 @@
+/**
+ * Place your custom styles here.
+ */
+#navbar > div.navbar-header > div > a.logo.navbar-btn.pull-left > img {
+  height: 80px;
+  width: 80px;
+}
